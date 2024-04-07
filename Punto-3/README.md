@@ -6,7 +6,7 @@ explique cómo monitorearía este modelo en caso en caso de que estuviera desple
 uso recurrente de la empresa.
 
 
-
+#### Diccionario de datos[Diccionario](https://github.com/Sebastiandiazgav/CoinkProject/blob/main/Punto-3/Data/Diccionario%20de%20datos.pdf)
 
 #### Analisis exploratorio documento[EDA](https://github.com/Sebastiandiazgav/CoinkProject/blob/main/Punto-3/EDA.pdf)
 
